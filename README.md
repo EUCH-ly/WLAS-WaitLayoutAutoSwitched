@@ -1,4 +1,4 @@
-# WLAS - Wait, Layout Auto-Switched?
+# WLAS - Wait, Layout Auto-Swiched?
 <img width="2000" height="1000" alt="Banner" src="https://github.com/user-attachments/assets/0b9c31e7-0351-4aad-a318-0fcb5ade3098" />
 
 ## RU
