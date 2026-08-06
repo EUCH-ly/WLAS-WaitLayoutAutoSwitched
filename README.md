@@ -1,7 +1,6 @@
 # WLAS - Wait, Layout Auto-Switched?
 [презентационный баннер]<img width="2000" height="1000" alt="Banner" src="https://github.com/user-attachments/assets/0b9c31e7-0351-4aad-a318-0fcb5ade3098" />
 
-
 ## RU
 
 ### Введение
@@ -10,16 +9,22 @@
 
 Поэтому я вооружился Claude и написал простенькое приложение. В первой версии уйма недочетов, но на то она и первая версия!
 
+> **Разработка:** Весь код проекта полностью написан с помощью ИИ **Claude**.
+
 ### Как это работает?
 
-Скрипт перехватывает ввод с клавиатуры (*полностью локально на вашем устройстве*) и сохраняет текст в буфер. После нажатия `Space` или `Enter` происходят следующие шаги:
+Скрипт перехватывает ввод с клавиатуры и сохраняет текст в буфер. После нажатия `Space` или `Enter` происходят следующие шаги:
 
 1. Скрипт сопоставляет введенные буквы (например, `g-h-b-d-t-n`) с раскладкой другого языка (`п-р-и-в-е-т`).
 2. При обнаружении соответствия со словом из словаря производит автоматическую замену.
 
+### Конфиденциальность и безопасность
+
+> **Локальная работа:** Приложение **не собирает и не отправляет никаких данных**. Весь анализ и проверка слов происходят исключительно на вашем устройстве с использованием локально установленных словарей.
+
 ### Кастомизация словарей
 
-Вы можете легко дополнить или изменить словари под себя в папке `Dictionaries`.
+Вы можете легко дополнить или изменить словари под свои нужды в папке `Dictionaries`.
 
 > **Примечание:** Базовые словари взяты из открытых источников, а словарь сленга сгенерирован с помощью нейросети.
 
@@ -33,12 +38,18 @@
 
 That’s why I armed myself with Claude and built a simple application. The first version naturally has its shortcomings, but that’s what first releases are for!
 
+> **Development:** The code for this project was written entirely with the assistance of **Claude**.
+
 ### How Does It Work?
 
-The script captures keyboard input (*fully locally on your device*) and stores it in a buffer. Once you press `Space` or `Enter`, it executes the following logic:
+The script captures keyboard input and stores it in a buffer. Once you press `Space` or `Enter`, it executes the following logic:
 
 1. The script maps the typed characters (e.g., `р-у-д-д-щ`) to the corresponding keys in another layout (`h-e-l-l-o`).
 2. If a valid word match is found, it automatically replaces the text.
+
+### Privacy & Security
+
+> **Fully Local:** The application **does not collect or transmit any user data**. All text processing and dictionary checks happen entirely offline, directly on your machine.
 
 ### Customizing Dictionaries
 
