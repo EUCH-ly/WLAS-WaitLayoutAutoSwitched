@@ -64,5 +64,3 @@ You can easily edit or expand the dictionaries to fit your needs in the `Diction
 ### Community & Contact
 
 You can follow other projects and updates from the author on Telegram: [EICHLYsoul](https://t.me/EICHLYsoul)
-> **Note:** Default dictionaries were sourced from open data, and the slang dictionary was generated using an AI language model. These initial versions are provided just to get things started — the author plans to refine and expand them over time.
-> **Note:** Default dictionaries were sourced from open data, and the slang dictionary was generated using an AI language model.
