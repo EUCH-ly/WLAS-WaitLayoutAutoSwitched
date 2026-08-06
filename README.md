@@ -1,6 +1,5 @@
 # WLAS - Wait, Layout Auto-Swiched?
-<img width="2000" height="1000" alt="Banner" src="https://github.com/user-attachments/assets/0b9c31e7-0351-4aad-a318-0fcb5ade3098" />
-
+<img width="2000" height="1000" alt="Banner" src="https://github.com/user-attachments/assets/d1ff668e-8020-4d14-ace0-8a31e2d8d101" />
 ## RU
 
 ### Введение
