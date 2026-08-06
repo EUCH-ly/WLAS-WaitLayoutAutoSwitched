@@ -1,5 +1,5 @@
 # WLAS - Wait, Layout Auto-Switched?
-[презентационный баннер]<img width="2000" height="1000" alt="Banner" src="https://github.com/user-attachments/assets/0b9c31e7-0351-4aad-a318-0fcb5ade3098" />
+<img width="2000" height="1000" alt="Banner" src="https://github.com/user-attachments/assets/0b9c31e7-0351-4aad-a318-0fcb5ade3098" />
 
 ## RU
 
@@ -22,11 +22,11 @@
 
 > **Локальная работа:** Приложение **не собирает и не отправляет никаких данных**. Весь анализ и проверка слов происходят исключительно на вашем устройстве с использованием локально установленных словарей.
 
-### Кастомизация словарей
+### Кастомизация и поддержка словарей
 
 Вы можете легко дополнить или изменить словари под свои нужды в папке `Dictionaries`.
 
-> **Примечание:** Базовые словари взяты из открытых источников, а словарь сленга сгенерирован с помощью нейросети.
+> **Примечание:** Базовые словари взяты из открытых источников, а словарь сленга сгенерирован с помощью нейросети. Текущие версии предоставлены исключительно для старта — автор планирует дорабатывать и улучшать их в будущих обновлениях.
 
 ---
 
@@ -51,8 +51,9 @@ The script captures keyboard input and stores it in a buffer. Once you press `Sp
 
 > **Fully Local:** The application **does not collect or transmit any user data**. All text processing and dictionary checks happen entirely offline, directly on your machine.
 
-### Customizing Dictionaries
+### Customization & Dictionary Support
 
 You can easily edit or expand the dictionaries to fit your needs in the `Dictionaries` folder.
 
+> **Note:** Default dictionaries were sourced from open data, and the slang dictionary was generated using an AI language model. These initial versions are provided just to get things started — the author plans to refine and expand them over time.
 > **Note:** Default dictionaries were sourced from open data, and the slang dictionary was generated using an AI language model.
