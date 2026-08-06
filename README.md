@@ -28,6 +28,10 @@
 
 > **Примечание:** Базовые словари взяты из открытых источников, а словарь сленга сгенерирован с помощью нейросети. Текущие версии предоставлены исключительно для старта — автор планирует дорабатывать и улучшать их в будущих обновлениях.
 
+### Сообщество и контакты
+
+За остальными работами и обновлениями автора можно следить в Telegram-канале: [EICHLYsoul](https://t.me/EICHLYsoul)
+
 ---
 
 ## ENG
@@ -55,5 +59,10 @@ The script captures keyboard input and stores it in a buffer. Once you press `Sp
 
 You can easily edit or expand the dictionaries to fit your needs in the `Dictionaries` folder.
 
+> **Note:** Default dictionaries were sourced from open data, and the slang dictionary was generated using an AI language model. These initial versions are provided just to get things started — the author plans to refine and expand them over time.
+
+### Community & Contact
+
+You can follow other projects and updates from the author on Telegram: [EICHLYsoul](https://t.me/EICHLYsoul)
 > **Note:** Default dictionaries were sourced from open data, and the slang dictionary was generated using an AI language model. These initial versions are provided just to get things started — the author plans to refine and expand them over time.
 > **Note:** Default dictionaries were sourced from open data, and the slang dictionary was generated using an AI language model.
