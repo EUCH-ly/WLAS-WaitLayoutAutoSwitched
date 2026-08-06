@@ -15,6 +15,12 @@
 1. Скрипт сопоставляет введенные буквы (например, `g-h-b-d-t-n`) с раскладкой другого языка (`п-р-и-в-е-т`).
 2. При обнаружении соответствия со словом из словаря производит автоматическую замену.
 
+### Кастомизация словарей
+
+Вы можете легко дополнить или изменить словари под себя в папке `Dictionaries`.
+
+> **Примечание:** Базовые словари взяты из открытых источников, а словарь сленга сгенерирован с помощью нейросети.
+
 ---
 
 ## ENG
@@ -31,3 +37,9 @@ The script captures keyboard input (*fully locally on your device*) and stores i
 
 1. The script maps the typed characters (e.g., `р-у-д-д-щ`) to the corresponding keys in another layout (`h-e-l-l-o`).
 2. If a valid word match is found, it automatically replaces the text.
+
+### Customizing Dictionaries
+
+You can easily edit or expand the dictionaries to fit your needs in the `Dictionaries` folder.
+
+> **Note:** Default dictionaries were sourced from open data, and the slang dictionary was generated using an AI language model.
